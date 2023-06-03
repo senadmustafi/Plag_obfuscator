@@ -1,4 +1,4 @@
-# Plug Obfuscator 🔧  
+# Plag Obfuscator 🔧  
 ##### Plag obfuscator is a tool to obfuscate plagiarism scanner software. It's very easy to use, just copy and paste your text in [Plag obfuscator tool ](https://github.com/senadmustafi/Plag_obfuscator) and press Obfuscate button.😵
 ### Made with: 
 - Python3 
